@@ -41,9 +41,11 @@
                         break;
                     case "4":
                         Console.Clear();
+                        Workshop9_OOPpolymorphism.OOPpolymorphism();
                         break;
                     case "5":
                         Console.Clear();
+                        Workshop8_OOPinherit.OOPinherit();
                         break;
                     case "6":
                         Console.Clear();
