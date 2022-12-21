@@ -56,6 +56,7 @@
                         break;
                     case "9":
                         Console.Clear();
+                        Workshop4_MenuSystem.MenuSystem();
                         break;
                     case "10":
                         Console.Clear();
