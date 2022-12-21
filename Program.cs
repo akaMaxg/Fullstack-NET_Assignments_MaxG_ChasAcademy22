@@ -50,6 +50,7 @@
                         break;
                     case "7":
                         Console.Clear();
+                        Workshop6_FizzBuzz.FizzBuzzer();
                         break;
                     case "8":
                         Console.Clear();
