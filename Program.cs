@@ -35,9 +35,11 @@
                         break;
                     case "2":
                         Console.Clear();
+                        Workshop11_Login.Login();
                         break;
                     case "3":
                         Console.Clear();
+                        Workshop10_Array.Arrays();
                         break;
                     case "4":
                         Console.Clear();
