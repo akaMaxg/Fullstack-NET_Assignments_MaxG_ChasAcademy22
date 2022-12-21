@@ -11,16 +11,16 @@
             while (runMenu)
             {
                 Console.WriteLine("\nChoose a program:\n" +
-                    "   1.  Login_Objects\n" +
-                    "   2.  Arrays\n" +
-                    "   3.  OOP_Polymorphism\n" +
-                    "   4.  OOP_Inherit\n" +
-                    "   5.  OOP_Class\n" +
-                    "   6.  FizzBUzz\n" +
-                    "   7.  RockPaperScissors\n" +
-                    "   8.  MenuSystem\n" +
-                    "   9.  Checkboard\n" +
-                    "   10. Troubleshoot\n" +
+                    "   1.  Place_holder\n" +
+                    "   2.  Login_Objects\n" +
+                    "   3.  Arrays\n" +
+                    "   4.  OOP_Polymorphism\n" +
+                    "   5.  OOP_Inherit\n" +
+                    "   6.  OOP_Class\n" +
+                    "   7.  FizzBUzz\n" +
+                    "   8.  RockPaperScissors\n" +
+                    "   9.  MenuSystem\n" +
+                    "   10. Checkboard\n" +
                     "   11. Numbers game\n" +
                     "   12. My first program\n" +
                     "   Exit program");
@@ -53,6 +53,7 @@
                         break;
                     case "8":
                         Console.Clear();
+                        Workshop5_RockPaperScissors.RockPaperScissors();
                         break;
                     case "9":
                         Console.Clear();
