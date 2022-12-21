@@ -47,6 +47,7 @@
                         break;
                     case "6":
                         Console.Clear();
+                        Workshop7_OOPclass.OOPclass();
                         break;
                     case "7":
                         Console.Clear();
