@@ -59,6 +59,7 @@
                         break;
                     case "10":
                         Console.Clear();
+                        Workshop3_Chessboard.Chessboard();
                         break;
                     case "11":
                         Console.Clear();
