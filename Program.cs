@@ -62,6 +62,7 @@
                         break;
                     case "11":
                         Console.Clear();
+                        Workshop2_NumberGame.GuessGame();
                         break;
                     case "12":
                         Console.Clear();
